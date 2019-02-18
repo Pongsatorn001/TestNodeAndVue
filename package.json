@@ -17,6 +17,8 @@
   },
   "homepage": "https://github.com/Pongsatorn001/TestNodeAndVue#readme",
   "dependencies": {
-    "express": "^4.16.4"
+    "express": "^4.16.4",
+    "sequelize": "^4.42.0",
+    "sqlite3": "^4.0.6"
   }
 }
